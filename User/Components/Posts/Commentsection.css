@@ -1,0 +1,30 @@
+.card {
+   width: 780px;
+   height: 250px;
+   margin-right: 20px;
+}
+.post-button {
+   width: 30rem;
+}
+#post {
+   width: 200px;
+}
+/* CommentSection.css */
+.list-group-item {
+   border: none;
+   background-color: #f9f9f9;
+   margin-bottom: 15px;
+ }
+ 
+ .list-group-item img {
+   border-radius: 50%;
+ }
+ 
+ textarea {
+   resize: none;
+ }
+ .mainBody {
+   display: flex;
+   flex-direction: column;
+ }
+ 

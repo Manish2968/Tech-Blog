@@ -1,0 +1,104 @@
+.post-container {
+   width: 800px;
+   margin: 20px auto;
+   background-color: #fff;
+   padding: 20px;
+   border: 1px solid #ddd;
+   border-radius: 10px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .post-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   
+ }
+ .post_header {
+  display: flex;
+ }
+ 
+ .profile-pic {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   margin-right: 10px;
+   cursor: pointer;
+ }
+ 
+ .post-info {
+   display: flex;
+   flex-direction: column;
+ }
+ 
+ .name {
+   font-weight: bold;
+   font-size: 18px;
+   margin-bottom: 2px;
+  
+   cursor: pointer;
+ }
+ 
+ .time {
+   font-size: 12px;
+   color: #666;
+   
+ }
+ .menu{
+   margin-bottom: 5px;
+   cursor: pointer;
+}
+ .cross{
+   margin-right: 20px;
+   cursor: pointer;
+}
+
+.cross2 {
+  margin-left: 20px;
+}
+ 
+ 
+ .post-content {
+   margin-bottom: 20px;
+ }
+ 
+ .post-image {
+   width: 100%;
+   height: 300px;
+   border-radius: 10px;
+   object-fit: cover;
+ }
+ 
+ .post-footer {
+   
+  
+   align-items: center;
+ }
+ 
+.like-share-button {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.like-button {
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.comment-button {
+  cursor: pointer;
+}
+
+.share-button {
+  margin-right: 50px;
+  cursor: pointer;
+}
+ 
+ 
+
+ 
+
+ 
+ 
+ 
